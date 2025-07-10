@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>Billing background.jpg</file>
+    <file>restaurrent.qrc</file>
+  </qresource>
+</RCC>
